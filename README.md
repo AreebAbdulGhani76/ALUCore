@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="images/alu-core.png" alt="ALUCore Project Banner" width="600">
+<img src="images/alu-core.png" alt="ALUCore Project Banner" width="400">
 
 ### Interactive Arithmetic Logic Unit Simulator
 
