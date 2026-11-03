@@ -1,13 +1,24 @@
 # ALUCore
-### Interactive Arithmetic Logic Unit Simulator Using Assembly Language
+
+<div align="center">
+
+<img src="images/alu-core.png" alt="ALUCore Project Banner" width="600">
+
+### Interactive Arithmetic Logic Unit Simulator
+
+**An Assembly Language Based ALU Simulator using MASM and Irvine32 Library**
+
+![Assembly](https://img.shields.io/badge/Language-Assembly-blue)
+![MASM](https://img.shields.io/badge/Platform-MASM-orange)
+![Project](https://img.shields.io/badge/Project-ALU%20Simulator-green)
+
+</div>
+
+---
 
 ## Overview
 
 ALUCore is an Assembly Language-based project that simulates the basic operations of an Arithmetic Logic Unit (ALU).
-
-The project is developed using MASM Assembly Language and the Irvine32 library. It provides a menu-driven interface that allows users to perform arithmetic, logical, and bitwise shift operations by entering two integer values.
-
-The program takes user input, executes the selected operation using Assembly instructions, and displays the calculated result.
 
 ## Features
 
